@@ -15,3 +15,7 @@ To develop FiveM, please follow the documentation in [docs/](https://github.com/
 
 ## License
 FiveM is licensed under a dual license, details of which are in the [code/LICENSE](https://github.com/citizenfx/fivem/blob/master/code/LICENSE) file in the repository.
+
+I fix the bugs other devs gaslight you about.
+AI tools, FiveM systems, automation pipelines.
+Build it, break it, resurrect it: 👉 https://AJThe.Dev
